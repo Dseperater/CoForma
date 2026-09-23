@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local model weights and imaging data
+weights/
+*.pt
+*.pth
+*.nii
+*.nii.gz
+*.npz
+*.npy
